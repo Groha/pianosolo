@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="31px" viewBox="0 0 23 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>52D93428-1C26-4D97-A4E5-9FF853B529DD</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-desktop-1440" transform="translate(-1057.000000, -7883.000000)">
+            <rect fill="#1C2127" x="0" y="0" width="1440" height="8422"></rect>
+            <g id="Footer/1440&gt;-5_Footer/1440&gt;" transform="translate(0.000000, 7615.000000)">
+                <polygon id="Rectangle" fill="#1C2127" points="0 100.527118 1440 0 1440 561 0 561"></polygon>
+                <g id="icon_Place-icon/icon_Place" transform="translate(1053.000000, 268.000000)">
+                    <g id="icon_Place">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                        <path d="M15.6169129,29.6791128 C16.0518262,29.6791128 25.2338259,16.3950378 25.2338259,11.2734518 C25.2338259,6.15186578 20.9281873,2 15.6169129,2 C10.3056386,2 6,6.15186578 6,11.2734518 C6,16.3950378 15.1819997,29.6791128 15.6169129,29.6791128 Z" id="Oval-4" stroke="#FFFFFF" stroke-width="2.42"></path>
+                        <ellipse id="Oval-5" stroke="#FFFFFF" stroke-width="2.42" cx="15.6169129" cy="10.9277012" rx="3.57153" ry="3.44397536"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

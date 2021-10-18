@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="27px" viewBox="0 0 32 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>990C1A17-1CB4-4FDB-975D-89BF6298E93E</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-desktop-1440" transform="translate(-1053.000000, -7793.000000)">
+            <rect fill="#1C2127" x="0" y="0" width="1440" height="8422"></rect>
+            <g id="Footer/1440&gt;-5_Footer/1440&gt;" transform="translate(0.000000, 7615.000000)">
+                <polygon id="Rectangle" fill="#1C2127" points="0 100.527118 1440 0 1440 561 0 561"></polygon>
+                <g id="Icon_phone-icon/Icon_phone" transform="translate(1053.000000, 176.000000)">
+                    <g id="Icon_phone">
+                        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+                        <path d="M22.9191408,18.9288736 C20.8813298,19.8907414 21.0493843,21.3377381 18.2473728,19.8912093 C15.4453614,18.4446805 10.9938939,15.0013187 10.6072626,14.281111 C10.4251582,13.9418911 10.6299682,13.0877838 11.2216929,11.7187891 L11.2216996,11.718792 C11.7892318,10.4057681 11.5327499,8.88186808 10.5666798,7.82695893 C8.8523455,5.95497583 7.12401508,4.68978236 5.38168857,4.0313785 C3.82071804,3.44150685 -3.03589719,11.2502917 8.85923624,20.5308006 C20.7543697,29.8113095 27.6675854,28.944869 29.1081669,24.8955031 C29.3463602,24.2259599 30,22.6405818 30,21.885627 C30,20.7991798 24.3616127,18.2480119 22.9191408,18.9288736 Z" id="phone" stroke="#FFFFFF" stroke-width="2.42"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

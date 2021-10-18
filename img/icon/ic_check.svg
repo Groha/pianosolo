@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>0E02B72F-8669-40DF-B96A-EB3E34D3CB94</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="82.471953%" y1="0%" x2="32.5402208%" y2="85.7698086%" id="linearGradient-1">
+            <stop stop-color="#EA344A" offset="0%"></stop>
+            <stop stop-color="#F15D44" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-desktop-1440" transform="translate(-604.000000, -8000.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Footer/1440&gt;-5_Footer/1440&gt;" transform="translate(0.000000, 7615.000000)">
+                <g id="icon/checked-2_icon/checkbox/checked" transform="translate(599.000000, 378.000000)">
+                    <g id="Group-2">
+                        <g id="icon/-ic_check" transform="translate(5.000000, 7.000000)">
+                            <polygon id="ic_check" points="5.07103825 9.1369509 14.7103825 0 16 1.21963824 5.07103825 11.5555556 0 6.75968992 1.26775956 5.54005168"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
